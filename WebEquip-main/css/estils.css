@@ -1,0 +1,23 @@
+body{
+    background: #4703A6;
+	font-family: Verdana;
+
+}
+
+.fila_avatar{
+    background: #C4DB94;
+	margin-top: 20px;
+	height: 300px;
+}
+
+.avatar{
+	margin-left: 20px;
+	margin-top: 25px;
+	height: 250px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.llista{
+	color: #dddddd;
+}
